@@ -1,0 +1,1 @@
+<h2>Halo. Selamat Datang Author <?php echo $_SESSION['author_name']; ?></h2>

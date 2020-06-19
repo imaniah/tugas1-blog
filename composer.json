@@ -1,0 +1,19 @@
+{
+    "name": "imaniah/tugas1-blog",
+    "description": "Program Praktikum Sistem Informasi Blog Pemrograman Berbasis Web Lanjutan Prodi Sistem Informasi UIN SUMATERA UTARA MEDAN",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Imaniah",
+            "email": "imaniah.022@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
